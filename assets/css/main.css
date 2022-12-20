@@ -18,14 +18,12 @@ body {
 }
 
 button {
-    /* background: #3461E2;
-    align-items: flex-start; */
-
     gap: 10px;
     left: 0px;
     top: 219px;
     width: 273px;
     height: 43px;
+    margin-top: auto;
     padding: 12px 25px;
     border-radius: 10px;
     background: #3461E2;

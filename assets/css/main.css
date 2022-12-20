@@ -18,6 +18,18 @@ body {
 }
 
 button {
+    /* background: #3461E2;
+    align-items: flex-start; */
+
+    gap: 10px;
+    left: 0px;
+    top: 219px;
+    width: 273px;
+    height: 43px;
+    padding: 12px 25px;
+    border-radius: 10px;
     background: #3461E2;
+    box-sizing: border-box;
     align-items: flex-start;
+    border: 1px solid #959595;
 }

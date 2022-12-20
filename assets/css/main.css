@@ -16,3 +16,8 @@ body {
     width: 60px;
     height: 68px;
 }
+
+button {
+    background: #3461E2;
+    align-items: flex-start;
+}
